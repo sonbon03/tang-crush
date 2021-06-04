@@ -7,7 +7,7 @@ const CONFIG = {
     desc: 'Phải chăng Chi... ',
     btnYes: 'Ăn cứt',
     btnNo: 'Ăn cơm',
-    btnNo: 'Ăn 
+    btnNo: 'Ăn vặt',
     question:'Trên thế giới hơn 7 tỉ người mà sao Chi lại thích ăn cứt',
     btnReply: 'Lý do <3',
     reply: 'Thích thì ăn thôi',
