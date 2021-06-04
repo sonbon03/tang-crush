@@ -9,11 +9,11 @@ const CONFIG = {
     desc: 'Phải chăng Linh đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'Vẫn cứ là thích Sơn <33',
     btnNo: 'Không, Bơn à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao Linh lại yêu Sơn <3',
-    btnReply: 'Gửi cho Sơn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Sơn biết mà 🥰. Yêu Linh nhiều nhiều 😘😘',
+    question:'Trên thế giới hơn 7 tỉ người mà sao Linh lại yêu Bơn <3',
+    btnReply: 'Gửi cho Bơn <3',
+    reply: 'Yêu Bơn nhiều <33333333',
+    mess: 'Bơn biết mà 🥰. Yêu Linh nhiều nhiều 😘😘',
     messDesc: 'Yêu bé Linh',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/sonbonbeo2003' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.youtube.com/watch?v=ZqDBgYPpUTg' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
