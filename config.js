@@ -13,6 +13,6 @@ const CONFIG = {
     reply: 'Thích thì ăn thôi',
     mess: 'Lêuleeu',
     messDesc: 'Hâhhahahahaha',
-    btnAccept: 'Okiiiii lun <3',
+    btnAccept: 'Okiiiii lun 3',
     messLink: 'https://www.youtube.com/watch?v=ZqDBgYPpUTg' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
