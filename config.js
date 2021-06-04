@@ -9,7 +9,7 @@ const CONFIG = {
     btnNo: 'Ăn cơm',
     btnNo: 'Ăn 
     question:'Trên thế giới hơn 7 tỉ người mà sao Chi lại thích ăn cứt',
-    btnReply: 'Gửi cho Bơn <3',
+    btnReply: 'Lý do <3',
     reply: 'Thích thì ăn thôi',
     mess: 'Lêuleeu',
     messDesc: 'Hâhhahahahaha',
